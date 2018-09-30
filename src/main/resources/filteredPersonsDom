@@ -1,0 +1,2 @@
+Person{id=2, name='Tom', address='Canada', cash=10000}, 
+Person{id=3, name='Steve', address='United Kingdom', cash=12300}
